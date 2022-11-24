@@ -1,0 +1,14 @@
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\bin\Debug\netcoreapp3.1\LAB8.exe
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\bin\Debug\netcoreapp3.1\LAB8.deps.json
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\bin\Debug\netcoreapp3.1\LAB8.runtimeconfig.json
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\bin\Debug\netcoreapp3.1\LAB8.runtimeconfig.dev.json
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\bin\Debug\netcoreapp3.1\LAB8.dll
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\bin\Debug\netcoreapp3.1\LAB8.pdb
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\obj\Debug\netcoreapp3.1\LAB8.csproj.AssemblyReference.cache
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\obj\Debug\netcoreapp3.1\LAB8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\obj\Debug\netcoreapp3.1\LAB8.AssemblyInfoInputs.cache
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\obj\Debug\netcoreapp3.1\LAB8.AssemblyInfo.cs
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\obj\Debug\netcoreapp3.1\LAB8.csproj.CoreCompileInputs.cache
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\obj\Debug\netcoreapp3.1\LAB8.dll
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\obj\Debug\netcoreapp3.1\LAB8.pdb
+C:\Users\hardn\OneDrive\Рабочий стол\OOP\LAB8\LAB8\obj\Debug\netcoreapp3.1\LAB8.genruntimeconfig.cache
